@@ -19,7 +19,7 @@ public class Main {
             if (czyToPalindrom(str))
                 System.out.print("Tak");
             else
-                System.out.print("Nie");
+                System.out.print("Nie ;]");
 
 
         }
